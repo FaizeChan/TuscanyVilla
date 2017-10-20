@@ -3,14 +3,34 @@
 
 div.col-md-9 {
     background-image: url('Images/tuscany-villas-sant-anna.jpg');
-    margin-top: 0px;
-    background-size: cover;
+    text-align: left;
+    height: 420px;
+    background-size: 1107px;
 }
 
 div.col-md-3 {
-     background-image: url('Images/map location.jpg');
-     margin-top: 0px;
-     background-size: cover;
-     text-align: right;
-     float:right;
+    background-image: url('Images/map location.jpg');
+    text-align: right;
+    height: 420px;
+    width: 333.5px;
+    background-size: 424px;
+}
+
+.MainSec2 {
+    height: 400px;
+}
+
+h1.Name {
+    text-align:center;
+    color: white;
+}
+
+h3.Name {
+    text-align:center;
+    color: white;
+}
+
+div.col-md-12 {
+    background-color: #6B5F7E;
+    height: 200px;
 }
