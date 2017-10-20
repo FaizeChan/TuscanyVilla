@@ -1,3 +1,16 @@
 ﻿body {
 }
 
+div.col-md-9 {
+    background-image: url('Images/tuscany-villas-sant-anna.jpg');
+    margin-top: 0px;
+    background-size: cover;
+}
+
+div.col-md-3 {
+     background-image: url('Images/map location.jpg');
+     margin-top: 0px;
+     background-size: cover;
+     text-align: right;
+     float:right;
+}
