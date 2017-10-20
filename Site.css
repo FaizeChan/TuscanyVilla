@@ -1,19 +1,23 @@
 ﻿body {
 }
 
-div.col-md-9 {
+div.col-md-9#Main {
     background-image: url('Images/tuscany-villas-sant-anna.jpg');
     text-align: left;
     height: 420px;
     background-size: 1107px;
 }
 
-div.col-md-3 {
+div.col-md-3#Main {
     background-image: url('Images/map location.jpg');
     text-align: right;
     height: 420px;
     width: 333.5px;
     background-size: 424px;
+}
+
+div.row#third {
+    background-color: white;
 }
 
 .MainSec {
@@ -22,8 +26,9 @@ div.col-md-3 {
     margin-bottom: 0px;
 }
 
-.row#row {
-
+.row#white {
+    background-color: white;
+    height: 100px;
 }
 
 h1.Name {
@@ -40,7 +45,62 @@ h3.Name {
     color: white;
 }
 
-div.col-md-12 {
+h2.row2 {
+    text-align:center;
+    color: white;
+    padding-top: 15px;
+}
+
+h3.row2 {
+    text-align:center;
+    color: white;
+    padding: 0px;
+    margin-top: 10px;
+}
+
+div.col-md-12#second {
     background-color: #6B5F7E;
-    height: 200px;
+    height: 125px;
+}
+
+div.row#third {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+div.col-md-7#third {
+    margin-left: 50px;
+    height: 225px;
+    color: #6B5F7E;
+    width:810px;
+}
+
+div.col-md-5#third {
+    background-image: url('Images/cold snow island.jpeg');
+    margin-right: 50px;
+    height: 250px;
+    width: 455px;
+    background-size:cover;
+}
+
+div.row#fourth {
+    background-color: #6B5F7E;
+}
+
+div.col-md-5#fourth {
+    background-image: url('Images/modern-villa.jpeg');
+     margin-left: 60px;
+     margin-top: 50px;
+     margin-bottom: 40px;
+    height: 250px;
+    width: 455px;
+    background-size:cover;
+}
+
+div.col-md-7#fourth {
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+    height: 225px;
+    width:810px;
 }
