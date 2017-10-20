@@ -104,3 +104,41 @@ div.col-md-7#fourth {
     height: 225px;
     width:750px;
 }
+
+div.col-md-7#fifth {
+    color: #6B5F7E;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+    height: 225px;
+    width:750px;
+}
+
+div.col-md-5#fifth {
+    background-image: url('Images/tuscany-grape-field-nature-51947.jpeg');
+    margin-left: 60px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    height: 250px;
+    width: 455px;
+    background-size: cover;
+}
+
+div.col-md-12#sixth {
+    background-color: #6B5F7E;
+    height: 125px;
+}
+
+h2.row6 {
+    text-align:center;
+    color: white;
+    padding-top: 15px;
+}
+
+h3.row6 {
+    text-align:center;
+    color: white;
+    padding: 0px;
+    margin-top: 10px;
+}
+
