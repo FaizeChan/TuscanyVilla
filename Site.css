@@ -16,11 +16,21 @@ div.col-md-3 {
     background-size: 424px;
 }
 
-.MainSec2 {
-    height: 400px;
+.MainSec {
+    padding-top: 0px; 
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.row#row {
+
 }
 
 h1.Name {
+    text-align:center;
+    color: white;
+}
+h2.Name {
     text-align:center;
     color: white;
 }
