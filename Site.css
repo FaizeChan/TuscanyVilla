@@ -153,3 +153,34 @@ h3.row6 {
     margin-top: 10px;
 }
 
+div.row#seventh {
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 350px;
+}
+
+div.col-md-4#seventh1 {
+    background-image: url('Images/darkblue sky.jpg');
+    height: 325px;
+    background-size: 460px;
+}
+
+div.col-md-4#seventh2 {
+    color: #6B5F7E;
+    margin-top: 40px;
+    text-align: center;
+}
+
+button#btn7 {
+    background-color: #6B5F7E;
+    color: white;
+}
+
+div.col-md-4#seventh3 {
+    background-image: url('Images/pool with bench chairs.jpg');
+    height: 325px;
+    background-size: 460px;
+}
+
+
