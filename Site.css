@@ -16,10 +16,6 @@ div.col-md-3#Main {
     background-size: 424px;
 }
 
-div.row#third {
-    background-color: white;
-}
-
 .MainSec {
     padding-top: 0px; 
     padding-bottom: 0px;
@@ -67,6 +63,11 @@ div.row#third {
     margin-top: 40px;
     margin-bottom: 40px;
 }
+
+button#btn3 {
+    background-color: #6B5F7E;
+    color: white;
+}
 div.col-md-7#third {
     margin-left: 50px;
     height: 225px;
@@ -86,6 +87,11 @@ div.row#fourth {
     background-color: #6B5F7E;
 }
 
+button#btn4 {
+    background-color: white;
+    color: #6B5F7E;
+}
+
 div.col-md-5#fourth {
     background-image: url('Images/modern-villa.jpeg');
      margin-left: 60px;
@@ -103,6 +109,11 @@ div.col-md-7#fourth {
     margin-bottom: 25px;
     height: 225px;
     width:750px;
+}
+
+button#btn5 {
+    background-color: #6B5F7E;
+    color: white;
 }
 
 div.col-md-7#fifth {
