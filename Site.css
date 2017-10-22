@@ -54,12 +54,12 @@ h3.row2 {
     margin-top: 10px;
 }
 
-div.col-md-12#second {
+#second {
     background-color: #6B5F7E;
     height: 125px;
 }
 
-div.row#third {
+#third {
     margin-top: 40px;
     margin-bottom: 40px;
 }
@@ -68,14 +68,14 @@ button#btn3 {
     background-color: #6B5F7E;
     color: white;
 }
-div.col-md-7#third {
+#third1 {
     margin-left: 50px;
     height: 225px;
     color: #6B5F7E;
     width:810px;
 }
 
-div.col-md-5#third {
+#third2 {
     background-image: url('Images/cold snow island.jpeg');
     margin-right: 50px;
     height: 250px;
@@ -83,7 +83,7 @@ div.col-md-5#third {
     background-size:cover;
 }
 
-div.row#fourth {
+#fourth {
     background-color: #6B5F7E;
 }
 
@@ -92,7 +92,7 @@ button#btn4 {
     color: #6B5F7E;
 }
 
-div.col-md-5#fourth {
+#fourth1 {
     background-image: url('Images/modern-villa.jpeg');
      margin-left: 60px;
      margin-top: 50px;
@@ -102,7 +102,7 @@ div.col-md-5#fourth {
     background-size:cover;
 }
 
-div.col-md-7#fourth {
+#fourth2 {
     color: white;
     margin-top: 50px;
     margin-left: 50px;
@@ -116,7 +116,7 @@ button#btn5 {
     color: white;
 }
 
-div.col-md-7#fifth {
+#fifth1 {
     color: #6B5F7E;
     margin-top: 50px;
     margin-left: 50px;
@@ -125,7 +125,7 @@ div.col-md-7#fifth {
     width:750px;
 }
 
-div.col-md-5#fifth {
+#fifth2 {
     background-image: url('Images/tuscany-grape-field-nature-51947.jpeg');
     margin-left: 60px;
     margin-top: 50px;
@@ -135,38 +135,38 @@ div.col-md-5#fifth {
     background-size: cover;
 }
 
-div.col-md-12#sixth {
+#sixth {
     background-color: #6B5F7E;
     height: 125px;
 }
 
-h2.row6 {
+h2.fullRow {
     text-align:center;
     color: white;
     padding-top: 15px;
 }
 
-h3.row6 {
+h3.fullRow {
     text-align:center;
     color: white;
     padding: 0px;
     margin-top: 10px;
 }
 
-div.row#seventh {
+#seventh {
     margin-top: 40px;
     margin-left: 50px;
     margin-right: 50px;
     height: 325px;
 }
 
-div.col-md-4#seventh1 {
+#seventh1 {
     background-image: url('Images/darkblue sky.jpg');
     height: 325px;
     background-size: 417px;
 }
 
-div.col-md-4#seventh2 {
+#seventh2 {
     color: #6B5F7E;
     margin-top: 40px;
     text-align: center;
@@ -177,19 +177,19 @@ button#btn7 {
     color: white;
 }
 
-div.col-md-4#seventh3 {
+#seventh3 {
     background-image: url('Images/pool with bench chairs.jpg');
     height: 325px;
     background-size: 417px;
 }
 
-div.row#eighth {
+#eighth {
     margin-left: 50px;
     margin-right: 50px;
     height: 325px;
 }
 
-div.col-md-4#eighth1 {
+#eighth1 {
     color: #6B5F7E;
     margin-top: 40px;
     text-align: center;
@@ -200,31 +200,32 @@ button#btn8 {
     color: white;
 }
 
-div.col-md-4#eighth2 {
+#eighth2 {
     background-image: url('Images/bedroom.jpg');
     height: 325px;
     background-size: 417px;
 }
 
-div.col-md-4#eighth3 {
+#eighth3 {
     color: #6B5F7E;
     margin-top: 40px;
     text-align: center;
 }
 
-div.row#nineth {
+#nineth {
     margin-left: 50px;
     margin-right: 50px;
+    margin-bottom: 40px;
     height: 325px;
 }
 
-div.col-md-4#nineth1 {
+#nineth1 {
     background-image: url('Images/padio with chairs.jpg');
     height: 325px;
     background-size: 417px;
 }
 
-div.col-md-4#nineth2 {
+#nineth2 {
     color: #6B5F7E;
     margin-top: 40px;
     text-align: center;
@@ -235,8 +236,41 @@ button#btn9 {
     color: white;
 }
 
-div.col-md-4#nineth3 {
+#nineth3 {
     background-image: url('Images/outside chairs.jpg');
     height: 325px;
     background-size: 417px;
+}
+
+#tenth {
+    background-color: #6B5F7E;
+    height: 125px;
+}
+
+h2.fullRow2 {
+    text-align:center;
+    color: white;
+}
+
+h3.fullRow2 {
+    text-align:center;
+    color: white;
+    padding: 0px;
+    margin-top: 10px;
+}
+
+#eleventh {
+    height: 200px;
+}
+
+.filler {
+    height: 175px;
+}
+
+.carousel-caption {
+    color: #6B5F7E;
+}
+
+.carousel-indicators li {
+    background-color: #6B5F7E;
 }
