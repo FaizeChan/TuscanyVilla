@@ -157,7 +157,7 @@ div.row#seventh {
     margin-top: 40px;
     margin-left: 50px;
     margin-right: 50px;
-    height: 350px;
+    height: 325px;
 }
 
 div.col-md-4#seventh1 {
@@ -183,4 +183,31 @@ div.col-md-4#seventh3 {
     background-size: 460px;
 }
 
+div.row#eighth {
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 325px;
+}
 
+div.col-md-4#eighth1 {
+    color: #6B5F7E;
+    margin-top: 40px;
+    text-align: center;
+}
+
+button#btn8 {
+    background-color: #6B5F7E;
+    color: white;
+}
+
+div.col-md-4#eighth2 {
+    background-image: url('Images/bedroom.jpg');
+    height: 325px;
+    background-size: 460px;
+}
+
+div.col-md-4#eighth3 {
+    color: #6B5F7E;
+    margin-top: 40px;
+    text-align: center;
+}
