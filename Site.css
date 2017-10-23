@@ -28,6 +28,7 @@ div.col-md-3#Main {
 }
 
 h1.Name {
+    font-family: 'Merriweather', serif;
     text-align:center;
     color: white;
 }
@@ -37,21 +38,24 @@ h2.Name {
 }
 
 h3.Name {
+    font-family: 'Merriweather', serif;
     text-align:center;
     color: white;
 }
 
 h2.row2 {
+    font-family: 'Eagle Lake', cursive;
     text-align:center;
     color: white;
-    padding-top: 15px;
+    padding-top: 5px;
 }
 
 h3.row2 {
+    font-family: 'Eagle Lake', cursive;
     text-align:center;
     color: white;
     padding: 0px;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 #second {
@@ -133,11 +137,6 @@ button#btn5 {
     height: 250px;
     width: 455px;
     background-size: cover;
-}
-
-#sixth {
-    background-color: #6B5F7E;
-    height: 125px;
 }
 
 h2.fullRow {
@@ -242,11 +241,6 @@ button#btn9 {
     background-size: 417px;
 }
 
-#tenth {
-    background-color: #6B5F7E;
-    height: 125px;
-}
-
 h2.fullRow2 {
     text-align:center;
     color: white;
@@ -275,3 +269,48 @@ h3.fullRow2 {
     background-color: #6B5F7E;
 }
 
+#last {
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#name2 {
+    height: 26px;
+    width: 254px;
+    padding-right: 0px;
+    margin-right: 30px;
+}
+
+#email {
+    height: 26px;
+    width: 254px;
+}
+
+#comment {
+    margin-top: 20px;
+    width: 542px;
+    height: 100px;
+    columns: 100px;
+}
+
+button#btnlast {
+    background-color: #6B5F7E;
+    color: white;
+    margin-top: 15px;
+    margin-left: 460px;
+}
+
+.footer1 {
+    text-align:center;
+    margin-top: 30px;
+    color: white;
+    padding: 0px;
+}
+
+.footer2 {
+    text-align:center;
+    color: white;
+    padding: 0px;
+}
