@@ -279,8 +279,8 @@ button#btn9 {
 #comment {
     margin-top: 20px;
     width: 542px;
-    height: 100px;
     columns: 100px;
+    height: 75px;
 }
 
 button#btnlast {
