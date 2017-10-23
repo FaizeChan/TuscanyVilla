@@ -73,6 +73,7 @@ button#btn3 {
     color: white;
 }
 #third1 {
+    font-family: 'Merriweather', serif;
     margin-left: 50px;
     height: 225px;
     color: #6B5F7E;
@@ -107,6 +108,7 @@ button#btn4 {
 }
 
 #fourth2 {
+    font-family: 'Merriweather', serif;
     color: white;
     margin-top: 50px;
     margin-left: 50px;
@@ -121,6 +123,7 @@ button#btn5 {
 }
 
 #fifth1 {
+    font-family: 'Merriweather', serif;
     color: #6B5F7E;
     margin-top: 50px;
     margin-left: 50px;
@@ -139,19 +142,6 @@ button#btn5 {
     background-size: cover;
 }
 
-h2.fullRow {
-    text-align:center;
-    color: white;
-    padding-top: 15px;
-}
-
-h3.fullRow {
-    text-align:center;
-    color: white;
-    padding: 0px;
-    margin-top: 10px;
-}
-
 #seventh {
     margin-top: 40px;
     margin-left: 50px;
@@ -167,6 +157,7 @@ h3.fullRow {
 
 #seventh2 {
     color: #6B5F7E;
+    font-family: 'Merriweather', serif;
     margin-top: 40px;
     text-align: center;
 }
@@ -189,6 +180,7 @@ button#btn7 {
 }
 
 #eighth1 {
+    font-family: 'Merriweather', serif;
     color: #6B5F7E;
     margin-top: 40px;
     text-align: center;
@@ -206,6 +198,7 @@ button#btn8 {
 }
 
 #eighth3 {
+    font-family: 'Merriweather', serif;
     color: #6B5F7E;
     margin-top: 40px;
     text-align: center;
@@ -225,6 +218,7 @@ button#btn8 {
 }
 
 #nineth2 {
+    font-family: 'Merriweather', serif;
     color: #6B5F7E;
     margin-top: 40px;
     text-align: center;
@@ -241,18 +235,6 @@ button#btn9 {
     background-size: 417px;
 }
 
-h2.fullRow2 {
-    text-align:center;
-    color: white;
-}
-
-h3.fullRow2 {
-    text-align:center;
-    color: white;
-    padding: 0px;
-    margin-top: 10px;
-}
-
 #eleventh {
     height: 200px;
 }
@@ -262,6 +244,7 @@ h3.fullRow2 {
 }
 
 .carousel-caption {
+    font-family: 'Courgette', cursive;
     color: #6B5F7E;
 }
 
@@ -274,6 +257,11 @@ h3.fullRow2 {
     margin-top: 40px;
     margin-left: 50px;
     margin-right: 50px;
+}
+
+#last1 {
+    font-family: 'Merriweather', serif;
+    color: #6B5F7E;
 }
 
 #name2 {
